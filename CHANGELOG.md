@@ -1,7 +1,7 @@
-# Changelog
+# CHANGELOG
 
-<!--next-version-placeholder-->
+## v0.0.0 (2024-09-16)
 
-## v0.0.0 (16/09/2024)
+### Unknown
 
-- First release of `mylibrary`!
+* First commit ([`957d07a`](https://github.com/marionbigotte/mylibrary/commit/957d07a0396f16c117ab88da70b2dfe3ab6d3fe7))
